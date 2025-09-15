@@ -256,7 +256,7 @@
         <button type="submit">Send Message</button>
       </form>
       <div class="social">
-        <a href="#">LinkedIn</a>
+        <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEgcWxU8faVEAAAAZlLoYKgQzTn3sQJ5ZemMUQWa1_1Q0_N0VrcnZQmuU7I_HA4x0H3wSIvSQDOXFiPFF9GMpbZ_dFOLQV8BzXGMj7cIBG6WU2BZRnKZH9qpqGnGtVcHUAapFQ=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgopisanth-n-ab1248322%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app">LinkedIn</a>
         <a href="#">GitHub</a>
         <a href="#">Instagram</a>
       </div>
